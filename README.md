@@ -3,7 +3,7 @@
 An AI Model, built for a Waste Management System - Automatic Trash Sorter - Nokia Ideathon 2021.
 
 ## Team Members:
-- Nevasini
+- Nevasini S.
 - Mohammed Ayaan
 - Manab Kumar Biswas
 
