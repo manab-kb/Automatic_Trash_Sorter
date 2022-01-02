@@ -81,4 +81,4 @@ test_generator = test_data.flow_from_directory(test_path,target_size= (224,224),
 
 model.fit_generator(train_generator, 25 ,test_generator)
 
-model.save('CNN_ImageProcessing_Manab.h5')
+model.save('CNN_Waste_Recognition_Systems.h5')
